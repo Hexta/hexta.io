@@ -1,0 +1,15 @@
+baseURL: https://hexta.io/
+languageCode: en-us
+title: Artur Malchanau
+theme: hello-friend-ng
+params:
+  social:
+    - name: email
+      url: mailto:artur@hexta.io
+      icon_pack: "fas"
+    - name: github
+      url: https://github.com/Hexta
+      icon_pack: "fas"
+    - name: linkedin
+      url: https://www.linkedin.com/in/arturmolchanov
+      icon_pack: "fab"
